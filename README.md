@@ -1,5 +1,6 @@
 # A Deep Multimodal Fusion Method for Personality Traits prediction 
 
+![alt text](https://github.com/pr-elhajji/personality_detection/blob/main/Graphical%20Abstract.png)
 
 We propose a novel deep multimodal fusion for predicting personality traits from diverse data modalities, including text, audio, and visual inputs. Our proposed method extracts complex patterns and features from these multimodal data sources using advanced deep learning techniques including Convolutional Neural Networks (CNNs), Long Short-Term Memory (LSTM) networks, and Vision Transformer (ViT). Specifically, we use pre-trained models ViT-B16 and VGG16 for visual feature extraction, VGGish for audio feature extraction, and GloVe for text analysis. Additionally, we investigate the potential benefits of using self-attention and cross-attention mechanisms to provide accurate predictions regarding an individual’s personality traits. The method we propose combines information from several modalities using various fusion techniques, improving the predictive capability of the model. 
 
