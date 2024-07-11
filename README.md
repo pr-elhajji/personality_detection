@@ -6,14 +6,14 @@ We propose a novel deep multimodal fusion for predicting personality traits from
 
 # Contributeur:
 
-Ayoub Ouarka (ORCID)
+* Ayoub Ouarka (ORCID)
 Polydisciplinary faculty of Taroudant,  Ibnou Zohr University, Morocco.
-Tarek AIT BAHA (ORCiD)
+* Tarek AIT BAHA (ORCiD)
 IRF-SIC Laboratory, Ibnou Zohr University, Agadir, Morocco.
-Youssef ES-SAADY (ORCiD)
+* Youssef ES-SAADY (ORCiD)
 Polydisciplinary faculty of Taroudant,  Ibnou Zohr University, Morocco.
 IRF-SIC Laboratory, Ibnou Zohr University, Agadir, Morocco
-Mohamed EL HAJJI (ORCiD)
+* Mohamed EL HAJJI (ORCiD)
 Regional Center for Education and Training Professions - Souss Massa, Morocco 
 IRF-SIC Laboratory, Ibnou Zohr University, Agadir, Morocco,
 
